@@ -1,0 +1,9 @@
+wfuzztest
+robots.txt
+about.php
+redir.php
+test1.txt
+test2.txt
+admin
+Admin
+index.php
